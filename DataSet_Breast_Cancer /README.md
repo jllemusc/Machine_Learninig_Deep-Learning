@@ -1,10 +1,10 @@
-Breast Cancer DataSet Analysis
+#Breast Cancer DataSet Analysis
 
-Overview
+##Overview
 
 The Breast Cancer DataSet is a widely used dataset in machine learning for classification tasks. It contains features computed from digitized images of fine needle aspirates (FNA) of breast masses, describing characteristics of cell nuclei present in the images. This dataset is particularly crucial for research in the field of medical diagnosis, specifically for classifying tumors as malignant or benign based on the given features.
 
-Dataset Description
+##Dataset Description
 
 The dataset comprises 569 instances with 30 numeric, predictive attributes and a binary class label indicating whether the tumor is malignant or benign. The attributes include various measures such as mean radius, mean texture, mean perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension, computed from the cell nuclei present in the images. The dataset provides a comprehensive view of these features, detailing their mean, standard error, and worst values.
 
