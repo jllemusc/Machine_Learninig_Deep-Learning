@@ -4,15 +4,15 @@
 
 The Breast Cancer DataSet is a widely used dataset in machine learning for classification tasks. It contains features computed from digitized images of fine needle aspirates (FNA) of breast masses, describing characteristics of cell nuclei present in the images. This dataset is particularly crucial for research in the field of medical diagnosis, specifically for classifying tumors as malignant or benign based on the given features.
 
-##Dataset Description
+<h2>Dataset Description</h2>
 
 The dataset comprises 569 instances with 30 numeric, predictive attributes and a binary class label indicating whether the tumor is malignant or benign. The attributes include various measures such as mean radius, mean texture, mean perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension, computed from the cell nuclei present in the images. The dataset provides a comprehensive view of these features, detailing their mean, standard error, and worst values.
 
-Attribute Information:
+<h2>Attribute Information:</h2>
 
 Mean Radius: Mean of distances from the center to points on the perimeter Mean Texture: Standard deviation of gray-scale values Mean Perimeter, Mean Area: Geometric properties of the cell nuclei Mean Smoothness: Local variation in radius lengths Mean Compactness: Perimeter^2 / area - 1.0 Mean Concavity: Severity of concave portions of the contour Mean Concave Points: Number of concave portions of the contour Mean Symmetry, Mean Fractal Dimension: Descriptive measures of the cell nuclei
 
-Code Overview
+<h2>Code Overview</h2>
 
 The provided Python code demonstrates how to load and analyze the Breast Cancer DataSet using Python's scikit-learn library. It includes:
 
@@ -24,11 +24,13 @@ Displaying the shape of the data: (569, 30).
 Normalizing the data using Min-Max scaling.
 Calculate the average and variance of each feature after normalization.
 Creating a horizontal bar chart to visualize the normalized feature averages with error bars representing variances.
-Data Visualization
+
+
+<h2>Data Visualization</h2>
 
 The provided code generates a horizontal bar chart that visualizes the normalized feature values. Each feature is represented on the y-axis, and the corresponding average normalized value is represented on the x-axis. The chart provides insights into the relative magnitudes of different features, allowing for a quick comparison of their importance in classification tasks.
 
-References
+<h2>References</h2>
 
 This dataset has been used in various research studies and publications, including works by Dr. William H. Wolberg, W. Nick Street, and Olvi L. Mangasarian. Their contributions have significantly advanced the field of machine learning in medical diagnosis, especially in the context of breast cancer detection.
 
