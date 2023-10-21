@@ -12,14 +12,19 @@ Number of Attributes: 4 numeric, predictive attributes and the class
 <h2>Attributes:</h2>
 
 Sepal length in cm
+
 Sepal width in cm
+
 Petal length in cm
+
 Petal width in cm
 
 <h3>Classes:</h3>
 
 Iris-Setosa
+
 Iris-Versicolour
+
 Iris-Virginica
 
 <h3>Code Overview </h3>
