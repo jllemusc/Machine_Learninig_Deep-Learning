@@ -20,9 +20,9 @@ The program begins by loading the Wine dataset and displays the shape of the dat
 <h2> Data Visualization </h2>
 
  <ul> 
-<li>Plot 1: Features 0 to 3 are plotted against instances, indicating alcohol content, phenols, and color intensity using a solid line.</li>
-<li>Plot 2: Features 4 to 7 are plotted against instances, representing other wine attributes using circles.</li>
-<li>Plot 3: Features 8 to 12 are plotted against instances, indicating additional wine characteristics using triangles.</li>
+<li> Plot 1: Features 0 to 3 are plotted against instances, indicating alcohol content, phenols, and color intensity using a solid line.</li>
+<li> Plot 2: Features 4 to 7 are plotted against instances, representing other wine attributes using circles.</li>
+<li> Plot 3: Features 8 to 12 are plotted against instances, indicating additional wine characteristics using triangles.</li>
  </ul>
 
 <h2> Insights </h2>
