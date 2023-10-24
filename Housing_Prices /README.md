@@ -46,6 +46,8 @@ Ethical Concerns: Due to ethical issues, it's essential to use this dataset resp
 The Boston Housing Prices dataset used in this analysis is a classic dataset in the field of machine learning and has been extensively studied in various research papers.
 
 For more information about the Boston Housing Prices dataset, refer to the following sources:
+<ul>
+<li>Belsley, Kuh & Welsch. (1980). "Regression diagnostics: Identifying Influential Data and Sources of Collinearity", Wiley, 244-261.</li>
+<li>Quinlan,R. (1993). "Combining Instance-Based and Model-Based Learning", Proceedings of the Tenth International Conference of Machine Learning, University of Massachusetts, Amherst, 236-243.</li>
+</ul>
 
-Belsley, Kuh & Welsch. (1980). "Regression diagnostics: Identifying Influential Data and Sources of Collinearity", Wiley, 244-261.
-Quinlan,R. (1993). "Combining Instance-Based and Model-Based Learning", Proceedings of the Tenth International Conference of Machine Learning, University of Massachusetts, Amherst, 236-243.
