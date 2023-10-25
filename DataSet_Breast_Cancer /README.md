@@ -9,8 +9,17 @@ The Breast Cancer DataSet is a widely used dataset in machine learning for class
 The dataset comprises 569 instances with 30 numeric, predictive attributes and a binary class label indicating whether the tumor is malignant or benign. The attributes include various measures such as mean radius, mean texture, mean perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension, computed from the cell nuclei present in the images. The dataset provides a comprehensive view of these features, detailing their mean, standard error, and worst values.
 
 <h2>Attribute Information:</h2>
-
-Mean Radius: Mean of distances from the center to points on the perimeter Mean Texture: Standard deviation of gray-scale values Mean Perimeter, Mean Area: Geometric properties of the cell nuclei Mean Smoothness: Local variation in radius lengths Mean Compactness: Perimeter^2 / area - 1.0 Mean Concavity: Severity of concave portions of the contour Mean Concave Points: Number of concave portions of the contour Mean Symmetry, Mean Fractal Dimension: Descriptive measures of the cell nuclei
+<ul> 
+  
+<li> Mean Radius: Mean of distances from the center to points on the perimeter </li>
+<li>Mean Texture: Standard deviation of gray-scale values Mean Perimeter </li>
+<li> Mean Area: Geometric properties of the cell nuclei </li>
+<li> Mean Smoothness: Local variation in radius lengths </li>
+<li> Mean Compactness: Perimeter^2 / area - 1.0 </li>
+<li> Mean Concavity: Severity of concave portions of the contour </li>
+<li> Mean Concave Points: Number of concave portions of the contour </li>
+<li> Mean Symmetry, Mean Fractal Dimension: Descriptive measures of the cell nuclei </li>
+</ul>
 
 <h2>Code Overview</h2>
 
