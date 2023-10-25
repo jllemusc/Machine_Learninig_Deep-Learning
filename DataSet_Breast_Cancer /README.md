@@ -9,10 +9,11 @@ The Breast Cancer DataSet is a widely used dataset in machine learning for class
 The dataset comprises 569 instances with 30 numeric, predictive attributes and a binary class label indicating whether the tumor is malignant or benign. The attributes include various measures such as mean radius, mean texture, mean perimeter, area, smoothness, compactness, concavity, concave points, symmetry, and fractal dimension, computed from the cell nuclei present in the images. The dataset provides a comprehensive view of these features, detailing their mean, standard error, and worst values.
 
 <h2>Attribute Information:</h2>
+
 <ul> 
   
 <li> Mean Radius: Mean of distances from the center to points on the perimeter </li>
-<li>Mean Texture: Standard deviation of gray-scale values Mean Perimeter </li>
+<li> Mean Texture: Standard deviation of gray-scale values Mean Perimeter </li>
 <li> Mean Area: Geometric properties of the cell nuclei </li>
 <li> Mean Smoothness: Local variation in radius lengths </li>
 <li> Mean Compactness: Perimeter^2 / area - 1.0 </li>
@@ -24,16 +25,16 @@ The dataset comprises 569 instances with 30 numeric, predictive attributes and a
 <h2>Code Overview</h2>
 
 The provided Python code demonstrates how to load and analyze the Breast Cancer DataSet using Python's scikit-learn library. It includes:
-
-Importing necessary libraries: matplotlib.pyplot, sklearn.datasets, statistics, and sklearn.preprocessing.
-Loading the dataset using load_breast_cancer() method.
-Displaying target names, feature names, and a subset of the target values.
-Printing the dataset description, which includes summary statistics and attribute information.
-Displaying the shape of the data: (569, 30).
-Normalizing the data using Min-Max scaling.
-Calculate the average and variance of each feature after normalization.
-Creating a horizontal bar chart to visualize the normalized feature averages with error bars representing variances.
-
+<ol>
+<li>Importing necessary libraries: matplotlib.pyplot, sklearn.datasets, statistics, and sklearn.preprocessing.</li>
+<li>Loading the dataset using load_breast_cancer() method.</li>
+<li>Displaying target names, feature names, and a subset of the target values.</li>
+<li>Printing the dataset description, which includes summary statistics and attribute information. </li>
+<li>Displaying the shape of the data: (569, 30).</li>
+<li>Normalizing the data using Min-Max scaling.</li>
+<li>Calculate the average and variance of each feature after normalization.</li>
+<li>Creating a horizontal bar chart to visualize the normalized feature averages with error bars representing variances.</li>
+</ol>
 
 <h2>Data Visualization</h2>
 
