@@ -34,12 +34,12 @@ Ensure you have the following dependencies installed:
 
 <h2> How to Run </h2>
 
-
-Clone the repository or download the script.
-Make sure you have the required dependencies installed.
-Run the script in a Python environment.
-The program will generate datasets with varying noise levels and display the corresponding plots.
-
+<ol>
+<li> Clone the repository or download the script. </li>
+<li> Make sure you have the required dependencies installed. </li>
+<li> Run the script in a Python environment. </li>
+<li> The program will generate datasets with varying noise levels and display the corresponding plots. </li>
+</ol>
 
 <h2> Example Plots </h2>
 
