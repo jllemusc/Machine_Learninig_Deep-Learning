@@ -27,9 +27,10 @@ While this dataset is generated for educational and experimental purposes, it do
 <h2> Dependencies </h2>
 
 Ensure you have the following dependencies installed:
-
-matplotlib
-scikit-learn
+<ul>
+<li>matplotlib </li>
+<li>scikit-learn </li>
+</ul>
 
 <h2> How to Run </h2>
 
@@ -41,13 +42,21 @@ The program will generate datasets with varying noise levels and display the cor
 
 
 <h2> Example Plots </h2>
-Moon-Shaped Data with Noise 0.0
-Moon-Shaped Data with Noise 0.03
-Moon-Shaped Data with Noise 0.06
-Moon-Shaped Data with Noise 0.09
-Moon-Shaped Data with Noise 0.12
+
+<ul>
+  
+<li> Moon-Shaped Data with Noise 0.0 </li>
+<li> Moon-Shaped Data with Noise 0.03 </li>
+<li> Moon-Shaped Data with Noise 0.06 </li>
+<li> Moon-Shaped Data with Noise 0.09 </li>
+<li> Moon-Shaped Data with Noise 0.12 </li>
+
+</ul>
 
 <h2> References </h2>
 
-scikit-learn make_moons Documentation
-Matplotlib Documentation
+<ul>
+<li> scikit-learn make_moons Documentation </li>
+<li> Matplotlib Documentation </li>
+  
+</ul>
