@@ -68,10 +68,12 @@ Visualizing data enhances understanding. I visualized the Olivetti Faces dataset
 <h3> Achievements and Learning Goals </h3>
 
 My journey in Data Science is not just about completing projects; it's about continuous learning and growth. Through these projects, I aspire to:
+<ul>
+<li> Master various machine learning algorithms and their applications.
+<li> Develop a deep understanding of diverse datasets, from medical to image data.
+<li> Enhance my skills in data preprocessing, feature engineering, and visualization.
+<li> Cultivate the ability to explain complex concepts and findings clearly and concisely.
+<li> Contribute meaningfully to the field of Data Science, understanding its ethical implications and responsibilities.
+</ul>
 
-Master various machine learning algorithms and their applications.
-Develop a deep understanding of diverse datasets, from medical to image data.
-Enhance my skills in data preprocessing, feature engineering, and visualization.
-Cultivate the ability to explain complex concepts and findings clearly and concisely.
-Contribute meaningfully to the field of Data Science, understanding its ethical implications and responsibilities.
 By sharing my progress and insights through this repository, I hope to inspire others and receive valuable feedback from the Data Science community. Together, let's embark on this exciting journey of knowledge and discovery!
