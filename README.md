@@ -23,7 +23,7 @@ Predicting diabetes progression is a crucial task. In this project, I analyzed t
 
 <h3> Housing Prices Prediction </h3>
 
-Housing prices prediction is a classic problem in Data Science. I explored the Boston Housing dataset, applying regression models to predict house prices. This project honed my regression skills and provided insights into real estate market analysis.
+Housing price prediction is a classic problem in Data Science. I explored the Boston Housing dataset, applying regression models to predict house prices. This project honed my regression skills and provided insights into real estate market analysis.
 
 
 <h3> Iris Flower Classification </h3>
