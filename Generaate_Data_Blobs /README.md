@@ -7,11 +7,13 @@ This Python program explores the Blobs dataset using scikit-learn. The dataset c
 
 <h2> Dataset Description </h2>
 
-Number of Instances: 250
-Number of Attributes: 2 numeric predictive attributes.
-Target: Class labels indicating different clusters.
-Attributes: Two features representing the coordinates of the instances.
-Code Overview: The program generates blobs data and visualizes them in a scatter plot, distinguishing different classes with varying markers and colors.
+<ul>
+<li> Number of Instances: 250 </li>
+<li> Number of Attributes: 2 numeric predictive attributes. </li>
+<li> Target: Class labels indicating different clusters.</li>
+<li> Attributes: Two features representing the coordinates of the instances. </li>
+<li> Code Overview: The program generates blobs data and visualizes them in a scatter plot, distinguishing different classes with varying markers and colors. </li>
+</ul>
 
 <h2> Insights </h2>
 
