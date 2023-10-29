@@ -13,19 +13,25 @@ The code begins by generating synthetic data points and visualizes four differen
 
 <ol>
 <ul>Data Generation:</ul>
+
 Random synthetic data points are generated for demonstration purposes.
 
 <ul>Visualization:</ul>
+
 The program provides visualizations of different regression lines and their evolution over epochs.
 
 <ul> Gradient Descent:</ul>
+
 The gradient_regression function implements gradient descent to optimize the regression parameters b (intercept) and w (slope).
 
 <ul> Loss Calculation: </ul>
+
 The loss function calculates the mean squared error (MSE) loss between predicted and actual values.
 
 <ul> Prediction: </ul>
+
 The prediction function predicts the target variable based on input features using the learned parameters.
+
 </ol>
 
 <h2> Insights </h2>
