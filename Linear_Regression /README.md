@@ -10,27 +10,32 @@ This Python program demonstrates the implementation of linear regression from sc
 The code begins by generating synthetic data points and visualizes four different regression lines with varying offsets and slopes. It then implements gradient descent for linear regression, updating the parameters (b and w) iteratively to minimize the loss function. The program includes visualizations illustrating the evolution of the regression line and loss over multiple epochs.
 
 <h2> Key Components </h2>
-Data Generation:
+
+<ol>
+<ul>Data Generation:</ul>
 
 Random synthetic data points are generated for demonstration purposes.
-Visualization:
+<ul>Visualization:</ul>
 
 The program provides visualizations of different regression lines and their evolution over epochs.
-Gradient Descent:
+<ul> Gradient Descent:</ul>
 
 The gradient_regression function implements gradient descent to optimize the regression parameters b (intercept) and w (slope).
-Loss Calculation:
+<ul> Loss Calculation: </ul>
 
 The loss function calculates the mean squared error (MSE) loss between predicted and actual values.
-Prediction:
+<ul> Prediction: </ul>
 
 The prediction function predicts the target variable based on input features using the learned parameters.
+
+</ol>
 <h2> Insights </h2>
 
-Regression Line Evolution:
+<h3> Regression Line Evolution: </h3>
+
 
 The visualizations show how the regression line gradually fits the data better with each epoch, demonstrating the learning process of the algorithm.
-Impact of Learning Rate (Alpha):
+<h3> Impact of Learning Rate (Alpha):</h3>
 
 Experimenting with different learning rates (alpha) showcases the importance of choosing an appropriate value for efficient convergence.
 <h2> Usage </h2>
