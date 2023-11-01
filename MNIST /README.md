@@ -25,7 +25,6 @@ The images are displayed in a 10x10 grid format using matplotlib, providing a vi
 <ol>
 
 
-
 <h2> Insights </h2>
 
 <h3>Digit Variations: </h3> 
@@ -36,8 +35,8 @@ The images are displayed in a 10x10 grid format using matplotlib, providing a vi
 <h3> Dataset Structure: </h3> 
 
 <ul> 
-<li> By organizing the images based on labels, the visualization provides an understanding of the distribution of digits in the dataset.</li>
-</ul>
+<li> By organizing the images based on labels, the visualization provides an understanding of the distribution of digits in the dataset.</li></ul>
+
 
 <h2> Usage </h2> 
 
