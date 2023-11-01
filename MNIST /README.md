@@ -10,33 +10,40 @@ The MNIST dataset contains grayscale images of handwritten digits (0 to 9), each
 The code begins by reading the MNIST dataset from a CSV file. It then processes the data, extracting the pixel values and labels. The program organizes the images in a grid format (10x10) and displays them using matplotlib. Each row in the grid represents a different digit (0 to 9), and each column represents a different image of that digit.
 
 <h2> Key Components </h2>
-<h3> Data Loading:</h3>
+<ol>
+<li> <h3> Data Loading:</h3> </li>
 
 The MNIST dataset is loaded from a CSV file, containing pixel values and corresponding labels.
 
-<h3> Data Processing: </h3>
+<li> <h3> Data Processing: </h3> </li>
 
 The program processes the dataset, separating pixel values and labels to create the digit-wise grid.
-<h3> Visualization: </h3>
+
+<li> <h3> Visualization: </h3> </li>
 
 The images are displayed in a 10x10 grid format using matplotlib, providing a visual representation of handwritten digits.
+<ol>
 
 <h2> Insights </h2>
 
-<h3>Digit Variations: </h3>
+<h3>Digit Variations: </h3> 
 
 The visualization showcases the diversity in writing styles for each digit, highlighting the variations in how different individuals write the same digit.
-<h3> Dataset Structure: </h3>
+<h3> Dataset Structure: </h3> 
 
 By organizing the images based on labels, the visualization provides an understanding of the distribution of digits in the dataset.
-<h2> Usage </h2>
+
+<h2> Usage </h2> 
+
 This visualization is valuable for researchers, students, and enthusiasts exploring image-based machine learning tasks. It aids in understanding the MNIST dataset's content and assists in the initial exploration of handwritten digit recognition techniques.
 
 <h2> Important Note </h2>
 Pixel Interpretation:
 
 Each pixel value represents the intensity of the corresponding pixel in the image. Higher values indicate darker pixels, while lower values represent lighter pixels.
+
 <h2> References </h2>
+
 This program utilizes the MNIST dataset, a well-known dataset in the machine learning community. For further details and exploration, refer to the following resources:
 
 <h3>MNIST Dataset Website: </h3>
