@@ -24,18 +24,25 @@ The program processes the dataset, separating pixel values and labels to create 
 The images are displayed in a 10x10 grid format using matplotlib, providing a visual representation of handwritten digits.
 <ol>
 
+
+
 <h2> Insights </h2>
 
 <h3>Digit Variations: </h3> 
-
-The visualization showcases the diversity in writing styles for each digit, highlighting the variations in how different individuals write the same digit.
+<ul>
+<li> The visualization showcases the diversity in writing styles for each digit, highlighting the variations in how different individuals write the same digit.</li>
+  
+</ul>
 <h3> Dataset Structure: </h3> 
 
-By organizing the images based on labels, the visualization provides an understanding of the distribution of digits in the dataset.
+<ul> 
+<li> By organizing the images based on labels, the visualization provides an understanding of the distribution of digits in the dataset.</li>
+</ul>
 
 <h2> Usage </h2> 
 
 This visualization is valuable for researchers, students, and enthusiasts exploring image-based machine learning tasks. It aids in understanding the MNIST dataset's content and assists in the initial exploration of handwritten digit recognition techniques.
+
 
 <h2> Important Note </h2>
 Pixel Interpretation:
@@ -45,13 +52,14 @@ Each pixel value represents the intensity of the corresponding pixel in the imag
 <h2> References </h2>
 
 This program utilizes the MNIST dataset, a well-known dataset in the machine learning community. For further details and exploration, refer to the following resources:
-
-<h3>MNIST Dataset Website: </h3>
+<ol>
+<li><h3>MNIST Dataset Website: </h3></li>
 
 MNIST Website
 The official MNIST dataset website provides comprehensive information, including dataset downloads and research papers.
 
-<h3> Scikit-Learn MNIST Dataset: </h3>
+<li> <h3> Scikit-Learn MNIST Dataset: </h3> </li>
+</ol>
 
 Scikit-Learn MNIST Documentation
 Scikit-Learn provides a convenient interface to access the MNIST dataset programmatically.
