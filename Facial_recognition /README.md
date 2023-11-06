@@ -16,10 +16,10 @@ Shape of the data: (400, 4096)
 The program then visualizes a subset of the Olivetti Faces dataset using Matplotlib. It organizes the images in a grid format, allowing for easy comparison and analysis. Different visualizations are created, such as:
 
 <ol>
-<li>1. Original Olivetti Faces
+<li> Original Olivetti Faces
 A grid of the original Olivetti Faces images is displayed, showcasing the raw data in its grayscale form. The images are reshaped to their original 64x64 dimensions for visualization. </li>
 
-<li> 2. Labeled Faces from LFW Dataset
+<li> Labeled Faces from LFW Dataset
 The program utilizes the labeled faces from the LFW (Labeled Faces in the Wild) dataset. It plots a grid of facial images, associating each face with its corresponding label. This provides a visual representation of the labeled dataset. </li>
 </ol>
 
