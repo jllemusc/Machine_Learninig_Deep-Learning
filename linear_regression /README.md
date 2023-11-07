@@ -8,12 +8,12 @@ Linear regression is a fundamental statistical method for modeling the relations
 
 <h2> Linear Regression with Linear Data </h2>
 The program starts by generating linear data to fit the model. It creates 150 samples of X values and computes corresponding Y values using a linear equation with some random noise. The chosen model equation is: 
-�
+Y
 =
 16.9
 +
 0.88
-�
+X
 Y=16.9+0.88X.
 
 <ul> Model Parameters:
