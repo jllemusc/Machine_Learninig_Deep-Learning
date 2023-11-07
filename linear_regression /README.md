@@ -16,16 +16,19 @@ The program starts by generating linear data to fit the model. It creates 150 sa
 �
 Y=16.9+0.88X.
 
-Model Parameters:
-Intercept (b): 16.9
-Slope (w): 0.88
+<ul> Model Parameters:
+ 
+<li>Intercept (b): 16.9 </li>
+<li> Slope (w): 0.88 </li>
+ 
+</ul>
 The linear regression model is trained using the generated data. The program visualizes the original data points (in yellow) and the regression line (in black) obtained from the trained model.
 
 <h2> Limitation of Linear Regression with Non-Linear Data </h2>
 The program then explores the limitations of linear regression when the relationship between variables is non-linear. It attempts to fit a cubic function (
-�
+X
 =
-�
+Y
 3
 Y=X 
 3
@@ -41,4 +44,6 @@ This program serves as a valuable resource for beginners learning about linear r
 Ensure that scikit-learn and Matplotlib libraries are installed to run the program successfully. Experiment with different data distributions and model complexities to gain a deeper understanding of linear regression and its applicability.
 
 <h2> References </h2>
-Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Vanderplas, J. (2011). "Scikit-learn: Machine learning in Python." Journal of machine learning research, 12(Oct), 2825-2830.
+<ul> 
+<li> Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Vanderplas, J. (2011). "Scikit-learn: Machine learning in Python." Journal of machine learning research, 12(Oct), 2825-2830.</li>
+</ul>
