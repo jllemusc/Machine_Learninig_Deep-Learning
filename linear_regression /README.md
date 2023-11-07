@@ -26,9 +26,6 @@ The linear regression model is trained using the generated data. The program vis
 
 <h2> Limitation of Linear Regression with Non-Linear Data </h2>
 The program then explores the limitations of linear regression when the relationship between variables is non-linear. It attempts to fit a cubic function (
-X
-=
-Y
 3
 Y=X 
 3
